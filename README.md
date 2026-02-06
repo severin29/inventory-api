@@ -18,7 +18,7 @@ RESTful **ASP.NET Core Web API** за управление на склад, ра
 - **C#**
 - **Entity Framework Core**
 - **SQLite**
-- **Swagger (Swashbuckle)**
+- **Swagger**
 
 ## Структура на проекта
 - Controllers → HTTP endpoints  
